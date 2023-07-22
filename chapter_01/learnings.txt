@@ -1,0 +1,11 @@
+CSS : Cascading Style sheets isa stylesheet language used to describe the presentation of a document written in HTML or XML(including XML dialects such as SVG, MATHML, XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
+
+Internal style sheet, External style sheet
+
+Internal style sheet : css is defined in the HTML file itself
+
+External style sheet : css is defined in external css file.
+
+when both defined, order takes the preference, last defined css is called.
+
+inline css can be defined in the html element as well, but not recommended( It's difficult to keep up, reuse, and scale. The size and download time of your page can be affected by styling multiple elements).

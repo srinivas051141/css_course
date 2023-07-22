@@ -1,0 +1,5 @@
+hexadecimal code
+rgb
+rgba
+hsl -(hue, saturation, lightness)
+hsla -(hue, saturation, lightness)

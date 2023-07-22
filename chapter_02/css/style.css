@@ -1,0 +1,44 @@
+
+/* * {
+    font-family :monospace
+} */
+
+
+body {
+    font-size: 22px;
+}
+
+h1, h2 {
+    color :blue;
+}
+
+
+p {
+    color :purple;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+ 
+/* class */
+.gray {
+    color :gray
+}
+
+/* id */
+#second {
+    font-style: italic;
+}
+
+
+
+
+
+/* p {
+    font-size: 64px;
+    color : purple;
+    font-style: italic;
+} */
+

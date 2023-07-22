@@ -1,0 +1,38 @@
+selectors:
+
+
+body, p : you can define the properties for the selectors and all the selectors will have the same property
+
+
+classes:
+defining styles for the classes helps to reuse the css whereever it is required.
+
+ids:
+styling using id can be very helpful for being very specific but it is not recommended to use id for styling because of its lack of reusuability
+
+
+
+
+
+
+specicity hierarchy
+Universal selector(*): 0, 0, 0, 0
+Type selector(e.g., p, div, span): 0, 0, 0, 1
+Class selector: 0, 0, 1, 0
+Attribute selector: 0, 0, 1, 0
+ID selector: 0, 1, 0, 0
+Inline style: 1, 0, 0, 0
+
+
+
+universal selector(*) does not follow inheritance, it simply selects every thing and applies the style.
+
+
+form elements donot inherit the form settings.
+
+
+
+"!important" tag is used to avoid the specificity rules and apply the style
+
+
+check the specificity calculator 

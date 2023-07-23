@@ -1,0 +1,21 @@
+px is a absolute unit
+1 rem = 16 px i.e rem is also absoulte units
+
+em, % is relative units, it takes the parent size and multiply it
+
+it is not recommended to use em because if some where in the css, the parent size is defined, then it herits the parent element size and multiplies it.
+
+it is better to use "em" when it herits its own size.
+
+
+ch : ch is a character, used to define the width, etc
+
+
+vw : viewport width = 1% of view port width
+vh: viewport height = 1% of view port height
+
+when defining the width in the body it is recommended to use % instead of vw
+and giving min-height : 100vh is recommended
+
+
+ 

@@ -1,0 +1,15 @@
+body{
+    padding: 10%;
+    font-size: 2em;
+    color:purple; 
+}
+
+/* input, button{
+    font:inherit;
+    /* color:inherit */
+/* } */ 
+
+p{
+    line-height: 1.5;
+    /* letter-spacing: 0.1em; */
+}

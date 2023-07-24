@@ -1,0 +1,32 @@
+there are many text settings
+
+text-decoration:
+    -underline, overline, linethrough, etc
+
+text-transform:
+    -capitalise, uppercase, lowercase
+
+text-align:
+    -left, right, center
+
+text-indent: takes value to only indent the 1st line
+    ex: text-indent:2em
+
+line-height:
+    ex : line-height:1
+letter-spacing:
+    ex :letter-spacing: 1em
+
+word-spacing:
+    ex: word-spacing:0.1em 
+
+font-weight:
+
+font-family: for font-family, we can give 3 font families, browser checks for the font, if not available goes to next.
+
+
+font-style:
+
+
+we can import the fonts from google fonts either using import statement in css file or using link in html head
+

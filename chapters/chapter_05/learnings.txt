@@ -1,0 +1,15 @@
+marigin(default size) is 0.67em i.e 0.67 of fontsize.
+
+box-sizing :content-box :- makes the box size based on the content
+ex : if defined width is 400 px, then the box is much more than 400 px 
+
+box-sizing :border-box :- makes the box's elements size based on the box
+ex : if defined width is 400px, then the box's width is 400 px, and the content is less than 400px
+
+margin, margin-left, margin-right, margin-top, margin-bottom 
+
+Top, right, bottom, left :order of values
+
+similarly for padding
+
+border has lot more options: for e.g border-top-width, border-top-color

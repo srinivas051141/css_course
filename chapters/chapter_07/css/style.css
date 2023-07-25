@@ -1,0 +1,20 @@
+a{
+    color:black;
+    /* text-decoration: none;
+    cursor: pointer; */
+}
+
+
+
+a:visited{
+    color: purple;
+}
+
+a:hover, a:focus{
+    color:dodgerblue;
+    opacity:0.6;
+}
+a:active{
+    color:red;
+}
+

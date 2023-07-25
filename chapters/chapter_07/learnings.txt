@@ -1,0 +1,18 @@
+we can define the styles by using pseudo classes i.e 
+ex :
+    a:visited{
+        color:purple;
+    }
+
+    a:hover{
+        color:dodgerblue;
+    }
+    a:active{
+        color:red
+    }
+
+
+order for hover, active, visited
+visited>hover>active
+
+but the order for a, a:{pseudoclass} doesnt matter because a:{pseudoclass} has higher specificty

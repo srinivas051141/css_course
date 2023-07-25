@@ -1,0 +1,20 @@
+can give list items styles
+ex: ol{
+    list-item-type: lower-alpha
+}
+
+
+can also give start paramter in ol element
+ex: <ol start=3 reversed></ol>
+
+square: square bullet
+disc: circular bullet
+text-align:center :- aligning the list item text.
+
+list-style-type is for defining the bullet type
+list-style-image is for giving image for bullet pointer
+list-style-position is for defining position of pointer
+
+instead we can define all three in just
+list-style
+ex: lust-style : square url("image_url") inside
